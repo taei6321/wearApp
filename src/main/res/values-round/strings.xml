@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">wear</string>
+
+    <string name="hello_world">Hello Round World!</string>
+
+    <string name="pm10_good">좋음</string>
+    <string name="pm10_moderate">보통</string>
+    <string name="pm10_poor">나쁨</string>
+    <string name="pm10_bad">매우나쁨</string>
+
+    <string name="pm10_good_value">오늘은 깨끗한 날이에요!</string>
+    <string name="pm10_moderate_value">그냥 무난한 날이에요!</string>
+    <string name="pm10_poor_value">미세먼지 나쁜상태에요!</string>
+    <string name="pm10_bad_value">매우 나빠요. 마스크 필수!</string>
+
+    <string name="stress_good">낮음</string>
+    <string name="stress_moderate">보통</string>
+    <string name="stress_poor">높음</string>
+    <string name="stress_bad">매우높음</string>
+
+    <string name="stress_good_value">전원 쾌적함을 느낌</string>
+    <string name="stress_moderate_value">그냥 무난한 날이에요!</string>
+    <string name="stress_poor_value">일부 불쾌함을 느낌</string>
+    <string name="stress_bad_value">전원 불쾌함을 느낌</string>
+
+</resources>

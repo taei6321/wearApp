@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bg">
+        <item>@drawable/bg01</item>
+        <item>@drawable/bg02</item>
+        <item>@drawable/bg03</item>
+        <item>@drawable/bg04</item>
+        <item>@drawable/bg05</item>
+        <item>@drawable/bg06</item>
+        <item>@drawable/bg07</item>
+        <item>@drawable/bg08</item>
+        <item>@drawable/bg09</item>
+        <item>@drawable/bg10</item>
+        <item>@drawable/bg11</item>
+        <item>@drawable/bg12</item>
+        <item>@drawable/bg13</item>
+    </string-array>
+
+    <string-array name="w_icon_large">
+        <item>@drawable/lg01</item>
+        <item>@drawable/lg02</item>
+        <item>@drawable/lg03</item>
+        <item>@drawable/lg04</item>
+        <item>@drawable/lg05</item>
+        <item>@drawable/lg06</item>
+        <item>@drawable/lg07</item>
+        <item>@drawable/lg08</item>
+        <item>@drawable/lg09</item>
+        <item>@drawable/lg10</item>
+        <item>@drawable/lg11</item>
+        <item>@drawable/lg12</item>
+        <item>@drawable/lg13</item>
+        <item>@drawable/lg14</item>
+        <item>@drawable/lg15</item>
+        <item>@drawable/lg16</item>
+        <item>@drawable/lg17</item>
+        <item>@drawable/lg18</item>
+        <item>@drawable/lg19</item>
+        <item>@drawable/lg20</item>
+        <item>@drawable/lg21</item>
+        <item>@drawable/lg22</item>
+    </string-array>
+
+    <string-array name="w_icon_small">
+        <item>@drawable/sm01</item>
+        <item>@drawable/sm02</item>
+        <item>@drawable/sm03</item>
+        <item>@drawable/sm04</item>
+        <item>@drawable/sm05</item>
+        <item>@drawable/sm06</item>
+        <item>@drawable/sm07</item>
+        <item>@drawable/sm08</item>
+        <item>@drawable/sm09</item>
+        <item>@drawable/sm10</item>
+        <item>@drawable/sm11</item>
+        <item>@drawable/sm12</item>
+        <item>@drawable/sm13</item>
+        <item>@drawable/sm14</item>
+        <item>@drawable/sm15</item>
+        <item>@drawable/sm16</item>
+        <item>@drawable/sm17</item>
+        <item>@drawable/sm18</item>
+        <item>@drawable/sm19</item>
+        <item>@drawable/sm20</item>
+        <item>@drawable/sm21</item>
+        <item>@drawable/sm22</item>
+    </string-array>
+
+    <string-array name="WeatherString">
+        <item>맑음</item>
+        <item>구름조금</item>
+        <item>흐림</item>
+        <item>비</item>
+        <item>눈</item>
+        <item>눈비</item>
+        <item>소나기</item>
+        <item>소낙눈</item>
+        <item>안개</item>
+        <item>뇌우</item>
+        <item>차차 흐려짐</item>
+        <item>흐려져 뇌우</item>
+        <item>흐려져 비</item>
+        <item>흐려져 눈</item>
+        <item>흐려져 눈비</item>
+        <item>흐린 후 갬</item>
+        <item>뇌우 후 갬</item>
+        <item>비 후 갬</item>
+        <item>눈 후 갬</item>
+        <item>눈비 후 갬</item>
+        <item>구름많음</item>
+        <item>황사</item>
+    </string-array>
+</resources>
